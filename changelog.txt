@@ -1,0 +1,7 @@
+
+v0.6.0.8241
+# fixed reseting active pad output on reopening
++ settings: default samples dir
+
+v0.6.0
+first alpha
