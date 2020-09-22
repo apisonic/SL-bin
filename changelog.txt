@@ -1,7 +1,21 @@
+v0.7.1
+# fixed preferences MIDI select pad toggle
+# better drop on waveform sample descriptions
+# fixed minor gui bugs
 
-v0.6.0.8241
+v0.7.0
++ new drumkit format with new drumkit file extension (.speedk) (resave existing drumkits, old format is deprecated and will be removed in future updates)
++ drumkit can be saved with samples in subfolder for portablility
++ "Show file" on pad context menu reveal sample file in system file manager
++ pads can be selected with MIDI notes, it's OFF by default and can be changed in preferences (click on Speedrum lite logo)
++ drag n drop multiple samples - auto populate empty pads
+
+v0.6.2
+# fixed preferences new samples dir not used until reloading
+# fixed parameters name started from 0 instead of 1
+
+v0.6.1
 # fixed reseting active pad output on reopening
-+ settings: default samples dir
++ default samples directory can be changed in preferences
 
-v0.6.0
-first alpha
+0.6.0 initial alpha release
