@@ -1,3 +1,16 @@
+v0.8.0
++ mono/poly voice mode (pad context menu)
++ 8 "cut" (choke) and "cut by" groups (pad context menu)
++ pad can be set to trigger the other pad (pad context menu)
++ shortcut to set all pads outputs to 1 or 16 channels (main menu) 
++ preferences: toggle - clearing pad resets output to 1
+# fixed not saving pad name change in some cases
+# fixed custom pad name behavior
+# Linux - fixed preferences file location
+# MacOSX - fixed Catalina support
+# Windows - fixed setup behavior
+# minor gui fixes
+
 v0.7.1
 # fixed preferences MIDI select pad toggle
 # better drop on waveform sample descriptions
