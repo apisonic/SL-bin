@@ -1,3 +1,9 @@
+v0.8.1
++ Cut and Cut By indicators on a pad
+# fixed random crash or gui freeze
+# fixed MIDI select pad behavior
+# fixed some gui font inconsistencies
+
 v0.8.0
 + mono/poly voice mode (pad context menu)
 + 8 "cut" (choke) and "cut by" groups (pad context menu)
