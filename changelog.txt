@@ -1,3 +1,14 @@
+v0.9.0
++ swap pads - drag&drop 
++ copy pad - alt/option + drag&drop  
++ simple internal sample browser with sample preview
++ drag&drop samples from an internal browser on the pad
++ checking for a new version from the main menu
++ rename pad from pad context menu
+# dsp optimizations
+# fixed crash on some files caused by incorrect info detection
+# fixed some timing inconsistencies on dsp processing
+
 v0.8.1
 + Cut and Cut By indicators on a pad
 # fixed random crash or gui freeze
