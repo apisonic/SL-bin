@@ -1,3 +1,11 @@
+v0.9.1
++ DrumKit is visible in a browser and double click will load it
+# on sample change reset start, end, envelope
+# fixed skipping .aif and .wma files with prev/next buttons
+# fixed drag drop stopped working in some cases
+# fixed jumping of a start/end slider
+# miscellaneous minor fixes
+
 v0.9.0
 + swap pads - drag&drop 
 + copy pad - alt/option + drag&drop  
