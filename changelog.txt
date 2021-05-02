@@ -1,3 +1,9 @@
+v0.9.2
+# fixed envelope behavior on higher samplerates
+# fixed reread changed folder on browser open
+# fixed gui resizing
+# Linux - support Ubuntu 18.04 LTS or above
+
 v0.9.1
 + DrumKit is visible in a browser and double click will load it
 # on sample change reset start, end, envelope
