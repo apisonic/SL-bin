@@ -1,8 +1,12 @@
-v0.9.2
-# fixed envelope behavior on higher samplerates
-# fixed reread changed folder on browser open
-# fixed gui resizing
-# Linux - support Ubuntu 18.04 LTS or above
+v1.0.0
++ MIDI mapping for Pads
++ new sample waveform editor
++ Bitrate and Samplerate crusher
++ Browser autoload and favorites
+# numerous GUI updates
+# numerous bugfixes
+# removed 32bit version on Windows
+
 
 v0.9.1
 + DrumKit is visible in a browser and double click will load it
@@ -17,8 +21,8 @@ v0.9.0
 + copy pad - alt/option + drag&drop  
 + simple internal sample browser with sample preview
 + drag&drop samples from an internal browser on the pad
-+ checking for a new version from the main menu
 + rename pad from pad context menu
++ checking for a new version from the main menu
 # dsp optimizations
 # fixed crash on some files caused by incorrect info detection
 # fixed some timing inconsistencies on dsp processing
@@ -41,6 +45,11 @@ v0.8.0
 # MacOSX - fixed Catalina support
 # Windows - fixed setup behavior
 # minor gui fixes
+
+v0.7.1
+# fixed preferences MIDI select pad toggle
+# better drop on waveform sample descriptions
+# fixed minor gui bugs
 
 v0.7.1
 # fixed preferences MIDI select pad toggle
