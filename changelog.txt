@@ -1,3 +1,6 @@
+v1.0.1
+# Windows - fixed Win7 compatibility
+
 v1.0.0
 + MIDI mapping for Pads
 + new sample waveform editor
