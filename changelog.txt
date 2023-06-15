@@ -1,3 +1,7 @@
+1.0.2
++ show full path for missing sample file
+# fixed possible crash on kit loading
+
 v1.0.1
 # Windows - fixed Win7 compatibility
 
